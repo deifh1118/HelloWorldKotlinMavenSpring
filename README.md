@@ -1,6 +1,6 @@
 # HelloWorldKotlinMavenSpring
 
-A repository with a HelloWorld Kotlin application with Maven and Spring Boot.
+A repository with a HelloWorld Kotlin application with Maven and Spring Boot and Spring MVC.
 
 ## Medium article
 
