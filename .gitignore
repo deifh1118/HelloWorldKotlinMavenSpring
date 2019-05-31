@@ -1,0 +1,10 @@
+# Ignore Maven project-specific cache directory
+target
+
+# Ignore Gradle build output directory
+build
+
+# Misc
+.idea
+*.iml
+.DS_Store
